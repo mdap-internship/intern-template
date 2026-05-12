@@ -11,5 +11,5 @@ jobs:
             curl -X POST \
             -H "Authorization: token ${{ secrets.ORG_PAT }}" \
             -H "Accept: application/vnd.github.v3+json" \
-            https://api.github.com/repos/your-org/your-org.github.io/dispatches \
+            https://api.github.com/repos/mdap-internship/mdap-internship.github.io/dispatches \
             -d '{"event_type": "intern-updated"}'
