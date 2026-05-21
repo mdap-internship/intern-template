@@ -1,5 +1,5 @@
 ---
-title: MDAP Intern Template
+title: <Your Name Here>
 role: MDAP Intern
 ---
 
