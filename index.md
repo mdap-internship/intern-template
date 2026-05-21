@@ -3,15 +3,15 @@ title: MDAP Intern Template
 role: MDAP Intern
 ---
 
-## About me
-Write whatever you want here in Markdown...
+This will be your very own page!
+
+# About me
+(Optional) Feel free to write a few lines about you, what you're studying, what you're pasisonate about...
 
 # Intern's report
-This will be your own page!
-This can be a [link](https://www.unimelb.edu.au/mdap)
+You can always add links like [this](https://www.unimelb.edu.au/mdap)
 
-**bold**
-
+Remember to change your profile-photo, make sure it's got the same name `assets/img/profile-photo.png`
 ![MDAP-intern identicon profile photo :)](assets/img/profile-photo.png)
 
-Testing update 2
+Remember to make at least 1 commit, otherwise the main website's repository will not pick up your profile (this is to avoid showing empty profiles on the page)
